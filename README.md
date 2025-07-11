@@ -62,3 +62,12 @@ I was responsible for designing and implementing the **UI system**, including:
 
 - Optimized for keyboard input only
 - AI difficulty increases in higher levels
+
+---
+
+## 👥 Team & Contributions
+
+This project was built in collaboration with [@youssef2004wael](https://github.com/youssef2004wael).
+
+- 🎨 **Mariam Mohamed** (me): UI design, scene navigation, health bar implementation, menu systems
+- 🧠 **Youssef Wael**: Game mechanics, character logic, input handling, enemy AI, and overall gameplay system
